@@ -1,2 +1,2 @@
-# Term project on computer vision on looking for acupoint CP6
+# Term project on looking for acupoint CP6
 Goal: Find out acupoint CP6 on human wrist in real-time
