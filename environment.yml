@@ -14,7 +14,7 @@ pytorch
 torchvision 
 torchaudio 
 pytorch-cuda
-PyQt5 
-PyQt
-pyqt
-pyqt5
+pip
+pip: 
+  - pyqt5
+  - PyQt5
