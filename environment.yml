@@ -1,7 +1,12 @@
-python
-pyqt
-pytorch 
-torchvision 
-torchaudio 
-pytorch-cuda
-streamlit
+name: cp6 # 環境名稱，可自訂
+channels:
+  - conda-forge  # 指定套件來源，conda-forge 通常有較新且完整的套件
+dependencies:
+  - python=3.9.20  # 指定 Python 版本
+  - pytorch 
+  - torchvision 
+  - torchaudio 
+  - pytorch-cuda
+  - pip
+  - pip:
+    - pyqt5python
