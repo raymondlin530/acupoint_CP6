@@ -9,9 +9,9 @@
 #   - torchaudio 
 #   - pytorch-cuda
 #   - pyqt5
-pyqt
+streamlit
 pytorch 
 torchvision 
 torchaudio 
 pytorch-cuda
-pip
+PyQt5
