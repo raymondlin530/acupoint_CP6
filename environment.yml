@@ -7,6 +7,4 @@ dependencies:
   - torchvision 
   - torchaudio 
   - pytorch-cuda
-  - pip
-  - pip:
-    - pyqt5
+  - pyqt
