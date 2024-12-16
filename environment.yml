@@ -9,4 +9,4 @@ dependencies:
   - pytorch-cuda
   - pip
   - pip:
-    - pyqt5python
+    - pyqt5
