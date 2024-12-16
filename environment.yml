@@ -8,4 +8,4 @@ dependencies:
   - torchvision 
   - torchaudio 
   - pytorch-cuda
-  - pyqt
+  - pyqt5
