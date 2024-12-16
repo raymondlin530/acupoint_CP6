@@ -9,12 +9,10 @@
 #   - torchaudio 
 #   - pytorch-cuda
 #   - pyqt5
-
+pyqt
 pytorch 
 torchvision 
 torchaudio 
 pytorch-cuda
 pip
-pip: 
-  - pyqt5
-  - PyQt5
+
