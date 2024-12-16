@@ -1,4 +1,5 @@
-PyQt5
+python
+pyqt5
 pytorch 
 torchvision 
 torchaudio 
